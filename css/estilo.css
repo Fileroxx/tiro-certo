@@ -1,0 +1,509 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #172434;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+#principal {
+    background: url('../img/bg1.svg') no-repeat center center;
+    background-size: cover;
+}
+
+#principal .logo img {
+    width: 15%;
+}
+
+
+#principal .texto h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    text-align: left;
+    font-weight: 400;
+    line-height: 50px;
+    max-width: 600px;
+    margin-top: 30px;
+}
+
+#principal .texto span {
+   color: #90E909;
+   font-weight: 500;
+}
+
+#principal .botao {
+    border-radius: 0;
+    background: #fff;
+    border-radius: 20px;
+    width: 40%;
+    height: 40px;
+    text-align: left;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#sinais {
+    background: #90E909;
+}
+
+#sinais .imagem img {
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 20px;
+}
+
+#sobre {
+    background: url('../img/mapa.svg') no-repeat right;
+    background-size: 35%;
+    background-position-x: 80%;
+}
+
+#sobre .titulo p {
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: rgba(255,255,255,.6);
+    font-size: 25px;
+}
+
+#sobre .texto p {
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: left;
+}
+
+#sobre .texto span {
+    color: #90E909;
+}
+
+#sobre .imagem {
+    margin-left: 20%;
+}
+
+#sobre .botao {
+    border-radius: 0;
+    background: #fff;
+    border-radius: 20px;
+    width: 40%;
+    height: 40px;
+    text-align: left;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#tirocerto {
+    background: url('../img/mapa.svg') no-repeat left;
+    background-size: 35%;
+    background-position-x: 20%;
+    margin-top: 5%;
+}
+
+#tirocerto .imagem img {
+    width: 100%;
+    margin-left: 0%;
+}
+
+#tirocerto .titulo p {
+    margin-top: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: rgba(255,255,255,.6);
+    font-size: 25px;
+}
+
+#tirocerto .paragrafo p {
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: left;
+}
+
+#tirocerto .paragrafo span {
+    color: #90E909;
+}
+
+#tirocerto .botao {
+    border-radius: 0;
+    background: #fff;
+    border-radius: 20px;
+    width: 40%;
+    height: 40px;
+    text-align: left;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 30px;
+    margin-top: 10%;
+}
+
+#funcionamento {
+    background: url('../img/mapa.svg') no-repeat right;
+    background-size: 40%;
+    background-position-x: 80%;
+}
+
+#funcionamento .titulo {
+    margin-top: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: rgba(255,255,255,.6);
+    font-size: 25px;
+}
+
+#funcionamento .paragrafo p {
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: left;
+}
+
+#funcionamento span {
+    color: #90E909;
+    font-weight: 400;
+}
+
+#indicacoes {
+    background: #90E909;
+    color: #111C29;
+}
+
+#indicacoes .paragrafo {
+    margin-top: -10px;
+}
+
+#indicacoes .paragrafo p {
+    font-size: 30px;
+    text-align: left;
+}
+
+#indicacoes .botao {
+    background: #111C29;
+    color: #90E909;
+    width: 40%;
+    height: 50px;
+    padding-top: 7px;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 10px;
+    
+}
+
+#indicacoes .botao a {
+    color: #90E909;
+}
+
+#conteudo {
+    background: linear-gradient(to bottom, #0918E9, #050A5B);
+}
+
+#conteudo .liberdade {
+    background: url('../img/mapblue.svg') no-repeat;
+    background-size: 30%;
+    background-position-y: 300px;
+    background-position-x: 30%;
+    color: #fff;
+}
+
+#conteudo .liberdade .imagem {
+    width: 100%;
+    margin-top: 20%;
+}
+
+#conteudo .liberdade .titulo p {
+    margin-top: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: rgba(255,255,255,.6);
+    font-size: 25px;
+}
+
+#conteudo .liberdade .paragrafo p{
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    text-align: left;
+}
+
+#conteudo .liberdade .botao {
+    background: #fff;
+    width: 40%;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20%;
+}
+
+#conteudo .ajuda {
+    background: url('../img/mapblue.svg') no-repeat;
+    background-size: 30%;
+    background-position-y: 300px;
+    background-position-x: 70%;
+}
+
+#conteudo .ajuda .imagem {
+    width: 90%;
+    margin-top: 40%;
+}
+
+#conteudo .ajuda .titulo p {
+    margin-top: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: rgba(255,255,255,.6);
+    font-size: 25px;
+}
+
+#conteudo .ajuda .paragrafo p {
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    text-align: left;
+}
+
+#conteudo .ajuda .botao {
+    
+    background: #fff;
+    width: 40%;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#conteudo .facilitado {
+    text-align: center;
+}
+
+#conteudo .facilitado .titulo p {
+    margin-top: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: rgba(255,255,255,.6);
+    font-size: 25px;
+
+}
+
+#conteudo .facilitado .imagem1 {
+    width: 25%;
+    margin-top: 30px;
+    margin-left: 35%;
+    margin-bottom: 14px;
+}
+
+#conteudo .facilitado .paragrafo p {
+    max-width: 500px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 20%;
+}
+
+#conteudo .facilitado .imagem2 {
+    width: 25%;
+    margin-top: 30px;
+    margin-left: 35%;
+    margin-bottom: 14px;
+}
+
+#conteudo .facilitado .imagem3 {
+    width: 25%;
+    margin-top: 30px;
+    margin-left: 35%;
+    margin-bottom: 14px;
+}
+
+#conteudo2 {
+    background: #141F2E;
+    text-align: center;
+}
+
+#conteudo2 .titulo p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 7px;
+
+}
+
+#conteudo2 .titulo span {
+    color: #90E909;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    letter-spacing: 6px;
+    font-size: 40px;
+    text-align: center;
+    line-height: 10px;
+}
+
+#conteudo2 .imagem1 {
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 30%;
+}
+ 
+#conteudo2 .imagem2 {
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 30%;
+}
+
+#conteudo2 .imagem3 {
+    width: 30%;
+    margin-top: 80px;
+    margin-left: 30%;
+}
+
+#conteudo2 .paragrafo {
+    max-width: 500px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 20%;
+    margin-top: 20px;
+}
+
+#conteudo2 .titulo2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+#conteudo2 .valor {
+    width: 40%;
+    margin-left: 30%;
+}
+
+#conteudo2 .paragrafo2 {
+    margin-left: 20%;
+}
+
+#conteudo2 .paragrafo2 p {
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center ;
+}
+
+#conteudo2 .paragrafo2 span {
+    color: #90E909;
+}
+
+#conteudo2 .titulo3 p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+#conteudo2 .titulo3 span {
+    font-weight: 400;
+}
+
+#conteudo2 .beneficios .paragrafo2 {
+    margin-left: 20%;
+}
+
+#conteudo2 .beneficios .paragrafo2 p {
+    color: #90E909;
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    letter-spacing: 6px;
+    font-size: 40px;
+    text-align: center ;
+}
+
+#conteudo2 .beneficios .paragrafo2 span {
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+#conteudo2 .beneficios .paragrafo3 {
+   
+}
+
+#conteudo2 .beneficios .paragrafo3 p {
+    color: #90E909;
+    max-width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    letter-spacing: 6px;
+    font-size: 40px;
+    text-align: center ;
+}
+
+#conteudo2 .beneficios .paragrafo3 span {
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: #90E909;
+}
+
+#conteudo2 .beneficios .paragrafo4 p {
+    max-width: 400px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin-left: 35%;
+    font-size: 20px;
+    text-align: center ;
+}
+
+#conteudo2 .beneficios .paragrafo4 span {
+    color: #90E909;
+}
+
+#conteudo2 .beneficios .botao-comprar {
+    border: 3px solid #90E909;
+    width: 40%;
+    height: 50px;
+    padding-top: 10px;
+    border-radius: 3px;
+    margin-left: 30%;
+}
+
+#conteudo2 .beneficios .botao-comprar a {
+    color: #90E909;
+    text-decoration: none;
+}
+
+footer {
+    background: #172434;
+    align-items: center;
+}
+
+footer {
+    align-items: center;
+    text-align: center;
+}
+
+footer .logo .imagem img {
+    width: 25%;
+}
+
+footer .copyright .paragrafo p{
+    padding-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+
+}
+
+footer .icones {
+    padding-top: 30px;
+}

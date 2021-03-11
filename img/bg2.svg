@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4832" height="3445" viewBox="0 0 4832 3445">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.154" cy="0.204" r="1.191" gradientTransform="matrix(-0.07, 0.998, -0.639, -0.045, 0.295, 0.059)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#172434"/>
+      <stop offset="0" stop-color="#141f2e"/>
+      <stop offset="0" stop-color="#172434"/>
+      <stop offset="0.339" stop-color="#152130"/>
+      <stop offset="1" stop-color="#101a27"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_78" data-name="Grupo 78" transform="translate(1327 -7012)">
+    <g id="Retângulo_8" data-name="Retângulo 8" transform="translate(-11 7012)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+      <rect width="1931" height="1878" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1930" height="1877" fill="none"/>
+    </g>
+    <g id="Elipse_2" data-name="Elipse 2" transform="translate(-1122 7223)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_11" data-name="Elipse 11" transform="translate(-1122 9051)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_5" data-name="Elipse 5" transform="translate(1848 7223)" fill="none" stroke="#90e909" stroke-width="1">
+      <ellipse cx="828.5" cy="703" rx="828.5" ry="703" stroke="none"/>
+      <ellipse cx="828.5" cy="703" rx="828" ry="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_8" data-name="Elipse 8" transform="translate(1848 9051)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_3" data-name="Elipse 3" transform="translate(-1219 7223)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_12" data-name="Elipse 12" transform="translate(-1219 9051)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_6" data-name="Elipse 6" transform="translate(1751 7223)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_9" data-name="Elipse 9" transform="translate(1751 9051)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_4" data-name="Elipse 4" transform="translate(-1327 7223)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_13" data-name="Elipse 13" transform="translate(-1327 9051)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_7" data-name="Elipse 7" transform="translate(1643 7223)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+    <g id="Elipse_10" data-name="Elipse 10" transform="translate(1643 9051)" fill="none" stroke="#90e909" stroke-width="1">
+      <circle cx="703" cy="703" r="703" stroke="none"/>
+      <circle cx="703" cy="703" r="702.5" fill="none"/>
+    </g>
+  </g>
+</svg>
