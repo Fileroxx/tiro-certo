@@ -858,3 +858,43 @@ footer .icones {
             margin-left: -3%;
         }
     }
+
+    @media screen and (min-width: 2500px) {
+        #sobre{
+            background-size: 40%;
+            background-position-x: 80%;
+        }
+        
+        #sobre .imagem {
+            margin-left: 25%;
+        }
+
+        #tirocerto {
+             background-size: 40%;
+             background-position-x: 20%;
+        }
+
+        #funcionamento {
+            background-size: 40%;
+            background-position-x: 80%;
+        }
+
+        #conteudo .liberdade {
+            background-size: 40%;
+            background-position-x: 15%;
+        }
+
+        #conteudo .ajuda {
+            background-size: 40%;
+            background-position-x: 80%;
+        }
+
+        #conteudo2 .acesso .paragrafo2 {
+            margin-left: 20%;
+        }
+
+        #conteudo2 .beneficios .paragrafo4 {
+            margin-left: 0;
+        }
+
+    }
