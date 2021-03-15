@@ -170,6 +170,19 @@ body {
     font-weight: 400;
 }
 
+#funcionamento .botao {
+    border-radius: 0;
+    background: #fff;
+    border-radius: 20px;
+    width: 40%;
+    height: 40px;
+    text-align: left;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 30px;
+    margin-top: 10%;
+}
+
 #indicacoes {
     background: #90E909;
     color: #111C29;
@@ -507,3 +520,341 @@ footer .copyright .paragrafo p{
 footer .icones {
     padding-top: 30px;
 }
+
+@media screen and (max-width: 428px) {
+    #principal .logo img {
+        width: 50%;
+        margin-left: 20%;
+    }
+
+    #principal .texto h4 {
+        font-size: 30px;
+        text-align: left;
+    }
+
+    #principal .botao {
+        margin-left: 10%;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+
+    #principal .imagem {
+        margin-top: 20px;
+    }
+
+    #sobre .titulo p{
+        margin-left: 25%;
+    }
+
+    #sobre .texto p {
+        font-size: 25px;
+    }
+
+    #sobre .botao {
+        width: 70%;
+        margin-left: 13%;
+    }
+
+    #sobre {
+        background-size: 100%;
+        background-position-y: 90%;
+    }
+
+    #sobre .imagem{
+        margin-left: 0px;
+    }
+
+    #tirocerto {
+        background-size: 100%;
+        background-position-y: 80px;
+    }
+    
+    #tirocerto .titulo{
+        margin-left: 25%;
+    }
+
+    #tirocerto .paragrafo p {
+        font-size: 25px;
+    }
+
+    #tirocerto .botao {
+        width: 70%;
+        margin-left: 13%;
+    }
+
+    #funcionamento {
+        background-size: 100%;
+        background-position-y: 94%;
+    }
+
+    #funcionamento .titulo {
+        margin-left: 25%;
+    }
+
+    #funcionamento .paragrafo p {
+        font-size: 25px;
+    }
+
+    #funcionamento .botao {
+        width: 70%;
+        margin-left: 13%;
+    }
+
+    #indicacoes .paragrafo p {
+        margin-left: 15%;
+        font-size: 25px;
+    }
+    
+    #indicacoes .botao {
+        margin-bottom: 10px;
+        margin-left: 32%;
+    }
+
+    #conteudo .liberdade {
+        background-size: 100%;
+        background-position-y: 22%;
+    }
+
+    #conteudo .liberdade .titulo {
+        text-align: center;
+    }
+
+    #conteudo .liberdade .paragrafo p {
+        font-size: 25px;
+    }
+
+    #conteudo .liberdade .botao {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    #conteudo .ajuda {
+        background-size: 100%;
+        background-position-y: 91%;
+    }
+
+    #conteudo .ajuda .titulo {
+        text-align: center;
+    }
+
+    #conteudo .ajuda .botao {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    #conteudo .facilitado .paragrafo p{
+        text-align: center;
+        margin-left: 0;
+    }
+
+    #conteudo2 .acesso .titulo {
+        line-height: 50px;
+    }
+
+    #conteudo2 .acesso .imagem1 {
+        margin-left: 33%;
+    }
+
+    #conteudo2 .acesso .imagem2 {
+        margin-left: 33%;
+    }
+
+    #conteudo2 .acesso .imagem3 {
+        margin-left: 33%;
+    }
+
+    #conteudo2 .acesso .paragrafo {
+        margin-left: 2px;
+        text-align: center;
+    }
+
+    #conteudo2 .acesso .valor {
+        width: 80%;
+        margin-left: 10%;
+    }
+    
+    #conteudo2 .acesso .paragrafo2 {
+        margin-left: 10px;
+    }
+
+    #conteudo2 .acesso .paragrafo2 p {
+        font-size: 25px;
+        text-align: left;
+    }
+
+    #conteudo2 .beneficios .imagem {
+        margin-top: 80px;
+    }
+
+    #conteudo2 .beneficios .paragrafo2{
+       margin-left: 0%;
+       margin-bottom: 20px;
+    }
+
+    #conteudo2 .beneficios .paragrafo3 {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    #conteudo2 .beneficios .paragrafo4 {
+        margin-left: -15%;
+    }
+
+    #conteudo2 .beneficios .botao-comprar {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+}
+
+    @media screen and (min-width: 768px) {
+        
+        #principal .logo img {
+            width: 20%;
+        }
+
+        #principal .texto h4 {
+            font-size: 30px;
+        }
+
+        #principal .botao {
+            width: 70%;
+        }
+
+        #sobre {
+            background-size: 60%;
+            background-position-x: 120%;
+        }
+
+        #sobre .texto p {
+            font-size: 25px;
+        }
+        
+        #sobre .botao {
+            width: 70%;
+        }
+
+        #tirocerto {
+            background-size: 60%;
+            background-position-y: 70%;
+            background-position-x: -15%;
+        }
+
+        #tirocerto .paragrafo p {
+            font-size: 25px;
+        }
+
+        #tirocerto .imagem {
+            margin-top: 80%;
+        }
+
+        #tirocerto .botao {
+            width: 70%;
+        }
+
+        #funcionamento {
+             background-size: 60%;
+             background-position-x: 110%;
+        }
+
+        #funcionamento .paragrafo p {
+            font-size: 25px;
+        }
+
+        #funcionamento .imagem {
+            margin-top: 90%;
+        }
+
+        #funcionamento .botao {
+            width: 70%;
+        }
+
+        #indicacoes .paragrafo p {
+            font-size: 20px;
+        }
+
+        #conteudo .liberdade {
+            background-size: 70%;
+            background-position-y: 60%;
+            background-position-x: -30%;
+        }
+
+        #conteudo .liberdade .paragrafo p {
+            font-size: 25px;
+        }
+
+       #conteudo .liberdade .imagem img {
+           margin-top: 80%;
+       }
+
+       #conteudo .liberdade .botao {
+           width: 70%;
+       }
+
+       #conteudo .ajuda {
+           background-size: 80%;
+           background-position-x: 200%;
+       }
+
+       #conteudo .ajuda .imagem img {
+           margin-top: 80%;
+       }
+
+       #conteudo .ajuda .botao {
+           width: 70%;
+       }   
+
+       #conteudo2 .acesso .paragrafo2 {
+           margin-left: 0%;
+       }
+
+       #conteudo2 .beneficios .paragrafo4 {
+           margin-left: -12%;
+       }
+
+    }
+
+    @media screen and (min-width: 1200px) {
+
+        #principal .imagem img:hover {
+            transform: scale(1.1);
+            transition: all ease-in-out .3s;
+        }
+        
+        #sobre {
+            background-position-x: 105%;
+        }
+
+        #sobre .imagem {
+            width: 80%;
+            margin-left: 0;
+        }
+
+        #tirocerto .imagem {
+            margin-top: 10%;
+        }
+
+        #funcionamento .imagem {
+            margin-top: 30%;
+        }
+
+        #indicacoes .botao {
+            margin-top: -1%;
+        }
+
+        #conteudo .liberdade .imagem {
+            margin-top: -50%;
+        }
+
+        #conteudo .ajuda .imagem {
+            margin-top: -10%;
+        }
+
+        #conteudo2 .acesso .paragrafo2 {
+            margin-left: 15%;
+        }
+
+        #conteudo2 .beneficios .paragrafo4 {
+            margin-left: -3%;
+        }
+    }
